@@ -1,0 +1,30 @@
+section{
+    background-color: aqua;
+    width:max-content;
+    height: max-content;
+    font-family:'Courier New', Courier, monospace;
+}
+div{
+    background-color: deeppink;
+    width:max-content;
+    height: max-content;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input{
+    background-color: rgb(36, 255, 36);
+    color: rgb(255, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    background-color: #eeff00;
+    font-variant: small-caps;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h6{
+    font-family:cursive;
+    font-style:inherit;
+}
+body{
+    background-color: rgba(6, 197, 70, 0.973);
+}
