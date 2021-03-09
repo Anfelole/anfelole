@@ -25,6 +25,12 @@ h6{
     font-family:cursive;
     font-style:inherit;
 }
+h5{
+    color: white;
+    background-color: indigo;
+    font-family:cursive;
+    font-style:inherit;
+}
 body{
     background-color: rgba(6, 197, 70, 0.973);
 }
