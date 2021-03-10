@@ -1,7 +1,9 @@
 body {
     border-top-style: double;
-    background-color: #4c00ff }
+    background-color: rgb(20, 124, 98)
+ }
 
     ul {
-        color: rgb(128, 255, 0);
+        align-content: center;
+        color: rgb(255, 255, 255);
     }

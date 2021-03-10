@@ -1,0 +1,62 @@
+.imagen{
+    width: 20%;
+    background-color: rgb(16, 0, 73);
+    height: 199.6px;
+    background-image: url(../img/Yo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    float: left;
+}
+
+.titulo{  
+    width: 80%;
+   float: left;
+   line-height: 100px;
+   text-align: center;
+   font-size: 40px;
+   font-weight: bold;
+   color: white;
+   background-color: rgb(9, 73, 30);
+}
+
+.one{
+    background-color: rgb(34, 141, 190);
+        height: 500px;
+        width: 20%;
+        float: left;
+        text-align: center;
+        color: honeydew;
+}
+
+.two{
+    background-color: rgb(20, 124, 98);
+    height: 500px;
+    width: 80%;
+    float: left;
+    text-align: center;
+    color: honeydew;
+}
+
+
+iframe{
+height: 498px;
+width: 100%;
+float: left;
+}
+
+.inicio{
+    color: lavender;
+}
+
+.menu1{
+    color: lavender;
+}
+
+.menu2{
+    color: lavender;
+}
+
+.texto{
+    color: lavender;
+}
