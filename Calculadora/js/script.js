@@ -43,6 +43,7 @@ function Presionado(){
             alert("No se puede dividir por cero");
         }
     }else{
+        // si no selecciona ninguna casilla o selecciona mas de una salta el siguiente alert
         alert("Selecciona una operacion");
     }
 }
